@@ -1,0 +1,11 @@
+[
+	{
+		"id": 1,
+		"title": "Books",
+		"description": "Libro género fantástico",
+		"price": "8000",
+		"code": "2571",
+		"stock": "12",
+		"img": "https://http2.mlstatic.com/D_NQ_NP_941946-MLA46913432105_072021-V.jpg"
+	}
+]
